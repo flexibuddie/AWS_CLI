@@ -1,0 +1,4 @@
+Install AWS CLI
+Type: aws --version (to confirm version installed)
+Type: aws configure list (to check existing aws configuration)
+Type: aws configure --profile default (to configure the default using the aws access key ID and secret access key)
