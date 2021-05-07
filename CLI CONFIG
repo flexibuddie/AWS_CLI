@@ -1,3 +1,6 @@
+AWS COMMANDS
+https://docs.aws.amazon.com/cli/latest/reference/iam/index.html#available-commands
+
 Install AWS CLI
 Type: aws --version (to confirm version installed)
 aws configure list (to check existing aws configuration)
